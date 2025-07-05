@@ -1,5 +1,6 @@
-This repository contains the official terms of service for the services and products offered by UR Communications BV, and tracks the public changes to those terms.
+This repository has moved, new location;
 
-##### Currently Available
+https://codeberg.org/upbeatrobot/terms-of-service
 
-[Algemene Voorwaarden (Dutch)](https://github.com/upbeatrobot/terms-of-service/blob/master/dutch/urcbv-algemene-voorwaarden.md)
+No further updates will be made here.
+
